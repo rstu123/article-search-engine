@@ -1,0 +1,50 @@
+10001,Abstract01,28/12/2005,An Evolutionary Forest for Regression, IEEE Transactions on Evolutionary Computation,30001,956,70001
+10002,Abstract02,16/06/2006,SR-Forest: A Genetic Programming based Heterogeneous Ensemble Learning Method, IEEE Transactions on Evolutionary Computation,30002,3743,70002
+10003,Abstract03,3/7/2006,Information Fusion in Offspring Generation: A Case Study in Gene Expression Programming,IEEE Transactions on Evolutionary Computation,30003,1576,70003
+10004,Abstract04,28/04/2011,A Semantic-Based Hoist Mutation Operator for Evolutionary Feature Construction in Regression,IEEE Computational Intelligence Magazine,30004,6486,70004
+10005,Abstract05,1/7/2020,Learning Regularity for Evolutionary Multiobjective Search: A Generative Model-Based Approach,IEEE Computational Intelligence Magazine,30005,624,70005
+10006,Abstract06,7/2/2007,Genetic Programming for Feature Selection Based on Feature Removal Impact in High-Dimensional Symbolic Regression,IEEE Transactions on Emerging Topics in Computational Intelligence,30006,2258,70006
+10007,Abstract07,22/04/2009,Faster Capacitated Arc Routing: A Sequence-to-Sequence Approach,IEEE Access,30007,1301,70007
+10008,Abstract08,10/2/2016,A Flexible Ranking-Based Competitive Swarm Optimizer for Large-Scale Continuous Multi-Objective Optimization,IEEE Transactions on Evolutionary Computation,30008,1509,70008
+10009,Abstract09,15/07/2020,Modular Multi-Tree Genetic Programming for Evolutionary Feature Construction for Regression,IEEE Transactions on Evolutionary Computation,30009,9580,70009
+10010,Abstract10,4/11/2021,MSCSCformer: Multiscale Convolutional Sparse Coding-Based Transformer for Pansharpening,IEEE Transactions on Geoscience and Remote Sensing,30010,15006,70010
+10011,Abstract11,26/12/2005,Multitree Genetic Programming With Feature-Based Transfer Learning for Symbolic Regression on Incomplete Data,IEEE Transactions on Cybernetics,30011,9248,70011
+10012,Abstract12,14/08/2008,A Bi-Search Evolutionary Algorithm for High-Dimensional Bi-Objective Feature Selection,IEEE Transactions on Emerging Topics in Computational Intelligence,30012,10578,70012
+10013,Abstract13,8/9/2008,A Multimodal Multi-Objective Evolutionary Algorithm for Filter Feature Selection in Multi-Label Classification,IEEE Transactions on Artificial Intelligence,30013,2048,70013
+10014,Abstract14,14/02/2019,Niching Genetic Programming to Learn Actions for Deep Reinforcement Learning in Dynamic Flexible Scheduling,IEEE Transactions on Evolutionary Computation,30014,3962,70014
+10015,Abstract15,3/1/2020,Genetic Programming With Flexible Region Detection for Fine-Grained Image Classification,IEEE Transactions on Evolutionary Computation,30015,2189,70015
+10016,Abstract16,8/5/2003,Learning to Preselection: A Filter-Based Performance Predictor for Multiobjective Feature Selection in Classification,IEEE Transactions on Evolutionary Computation,30016,3018,70016
+10017,Abstract17,1/9/2003,Evolutionary Trainer-Based Deep Q-Network for Dynamic Flexible Job Shop Scheduling,IEEE Transactions on Evolutionary Computation,30017,14793,70017
+10018,Abstract18,29/03/2005,Toward Evolving Dispatching Rules With Flow Control Operations By Grammar-Guided Linear Genetic Programming,IEEE Transactions on Evolutionary Computation,30018,3148,70018
+10019,Abstract19,26/01/2006,Dual Sparse Structured Subspaces and Graph Regularisation for Particle Swarm Optimisation-Based Multi-Label Feature Selection,IEEE Computational Intelligence Magazine ,30019,3095,70019
+10020,Abstract20,28/03/2006,Genetic Programming for Document Classification: A Transductive Transfer Learning System,IEEE Transactions on Cybernetics,30020,5413,70020
+10021,Abstract21,12/12/2007,Mapping RDF Databases to Property Graph Databases,IEEE Access,30021,6574,70021
+10022,Abstract22,27/03/2008,Managing 3D GIS Data for Indoor Environment Using Property Graph Database,IEEE Access,30022,4312,70022
+10023,Abstract23,16/01/2009,Efficient Skyline Computation Over an Incomplete Database With Changing States and Structures,IEEE Access,30023,2051,70023
+10024,Abstract24,4/9/2009,A transform method for Laplace's equation in multiply connected circular domains,IMA Journal of Applied Mathematics,30024,1542,70024
+10025,Abstract25,28/10/2009,A Systematic Review Towards Big Data Analytics in Social Media,Big Data Mining and Analytics,30025,814,70025
+10026,Abstract26,23/07/2010,Big data with cloud computing: Discussions and challenges,Big Data Mining and Analytics,30026,927,70026
+10027,Abstract27,5/1/2012,Cloud-Based Intrusion Detection Approach Using Machine Learning Techniques,Big Data Mining and Analytics ,30027,3648,70027
+10028,Abstract28,11/6/2012,Calculation of prompt diphoton production cross sections at Tevatron and  LHC energies,Physical Review D,30028,7894,70028
+10029,Abstract29,28/08/2012,Sparsity-certifying Graph Decompositions,Graphs and Combinatorics,30029,2186,70029
+10030,Abstract30,12/2/2013,The evolution of the Earth-Moon system based on the dark matter field  fluid model,International Journal of Physics ,30030,9774,70030
+10031,Abstract31,9/4/2014,A determinant of Stirling cycle numbers counts unlabeled acyclic  single-source automata,Discrete Mathematics & Theoretical Computer Science,30031,6587,70031
+10032,Abstract32,9/11/2016,From dyadic Lambda to Lambda,Illinois Journal of Mathematics,30032,6476,70032
+10033,Abstract33,31/10/2017,Bosonic characters of atomic Cooper pairs across resonance,"Physical review A, Atomic, molecular, and optical physics",30033,1254,70033
+10034,Abstract34,7/5/2019,Polymer Quantum Mechanics and its Continuum Limit,General Relativity and Quantum Cosmology,30034,954,70034
+10035,Abstract35,19/11/2019,Numerical solution of shock and ramp compression for general material  properties,Journal of Applied Physics,30035,6215,70035
+10036,Abstract36,24/12/2019,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The  Serpens YSO Population As Observed With IRAC and MIPS",The Astrophysical Journal,30036,3000,70036
+10037,Abstract37,10/2/2020,"Partial cubes: structures, characterizations, and constructions",Discrete Mathematics,30037,1547,70037
+10038,Abstract38,8/5/2020,Computing genus 2 Hilbert-Siegel modular forms over  via  the Jacquet-Langlands correspondence,Experimental Mathematics,30038,8952,70038
+10039,Abstract39,7/9/2020,Distribution of integral Fourier Coefficients of a Modular Form of Half  Integral Weight Modulo Primes,Mathematische Annalen,30039,1274,70039
+10040,Abstract40,9/4/2021,$p$-adic Limit of Weakly Holomorphic Modular Forms of Half Integral  Weight,Israel Journal of Mathematics,30040,4900,70040
+10041,Abstract41,19/04/2004,Iterated integral and the loop product,arXiv: Classical Analysis and ODEs,30041,2627,70041
+10042,Abstract42,28/06/2004,Fermionic superstring loop amplitudes in the pure spinor formalism,Journal of High Energy Physics,30042,10564,70042
+10043,Abstract43,10/1/2005,Lifetime of doubly charmed baryons,Communications in Theoretical Physics,30043,11394,70043
+10044,Abstract44,28/01/2005,Spectroscopic Observations of the Intermediate Polar EX Hydrae in  Quiescence,Monthly Notices of the Royal Astronomical Society ,30044,548,70044
+10045,Abstract45,24/05/2007,In quest of a generalized Callias index theorem,arXiv: High Energy Physics,30045,9452,70045
+10046,Abstract46,13/07/2010,Approximation for extinction probability of the contact process based on  the Grobner basis,RIMS Kokyuroku,30046,13578,70046
+10047,Abstract47,10/1/2012,Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays,Physical Review,30047,3695,70047
+10048,Abstract48,12/9/2012,Molecular Synchronization Waves in Arrays of Allosterically Regulated  Enzymes,Physical Review,30048,153647,70048
+10049,Abstract49,13/02/2015,Stochastic Lie group integrators,SIAM Journal on Scientific Computing,30049,16697,70049
+10050,Abstract50,24/09/2018,ALMA as the ideal probe of the solar chromosphere,Proceedings of the International Astronomical Union,30050,3021,70050
