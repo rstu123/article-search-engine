@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combined Page</title>
+    <!-- Link to your CSS file here -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="article.html">Articles</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="credit.html">Credits</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content Sections -->
+    <section id="article">
+        <?php echo file_get_contents("article.html"); ?>
+    </section>
+
+    <section id="about">
+        <?php echo file_get_contents("about.html"); ?>
+    </section>
+
+    <section id="credits">
+        <?php echo file_get_contents("credit.html"); ?>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Your Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>

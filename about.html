@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credits</title>
+    <link rel="stylesheet" href="about.css"> <!-- Link to the CSS file -->
+    <style>
+        /* CSS styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Article Database Search Engine</h1>
+        <h2>Group 10 - Project PDM</h2>
+    </header>
+    <!-- Navigation Menu -->
+   <nav>
+    <ul>
+         <li><a href="article.html">Home</a></li>
+         <li><a href="about.html">About</a></li>
+         <li><a href="credit.html">Credits</a></li> <!-- Link to the credits page -->
+     </ul>
+  </nav>
+    <div class="container">
+        <div class="header">
+            <h1>About the project</h1>
+        </div>
+        <div class="content">
+            <p>Article search engines have unique data requirements. They need to maintain a vast amount
+                of information from various sources, manage metadata, and ensure quick and efficient
+                retrieval of articles based on user queries. You can solve the data-related problems of an
+                article search engine by creating a DBMS solution.
+                First, you should assign unique IDs to the articles and store the relevant information under the
+                same. You'll have to add the article's title, author, publication date, source, and the content of
+                the article. You'll also have to mention the category or the topic of the article (such as
+                technology, health, business, etc.).
+                After that, you should add information about the sources. A source can publish multiple
+                articles, and it would have a unique ID as well. Sources would also be classified into different
+                categories.
+                Users would search for articles, so you'll need to add that information to your database too.
+                Apart from that, there would be distinct search parameters (keywords, date range, source,
+                etc.) in the search engine. Then, you'd have to add the information of search history and user
+                preferences.
+                You can start with a small set of articles and expand it as you move on. Make sure that the
+                data is easily understandable and accessible. The database should be designed in a way that it
+                can handle a large number of queries and return accurate results quickly. It should also be
+                scalable to accommodate the growth of articles and users over time.</p>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2024 Group 10 - Principles of Database Management [G02]. All rights reserved.
+    </footer>
+</body>
+</html>

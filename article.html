@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="article.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Search Engine Database</title>
+    <style>
+        /* CSS styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .main-content {
+            flex: 3;
+        }
+        .keywords-table {
+            flex: 1;
+            margin-left: 20px;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .keywords-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .keywords-table table th,
+        .keywords-table table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        .keywords-table table th {
+            background-color: #f2f2f2;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Article Database Search Engine</h1>
+        <h2>Group 10 - Project PDM</h2>
+    </header>
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="article.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="credit.html">Credits</a></li> <!-- Link to the credits page -->
+        </ul>
+    </nav>
+    <div class="container">
+        <div class="main-content">
+            <h2>Search Articles</h2>
+            <form action="result.php" method="post">
+                <label for="keyword">Enter Keyword:</label>
+                <input type="text" id="keyword" name="keyword" placeholder="Type your keyword here" required>
+                <button type="submit">Search</button>
+            </form>
+        </div>
+        <div class="keywords-table">
+            <h3>Keywords</h3>
+            <table>
+                <tr><th>Keyword</th></tr>
+                <tr><td>regression</td></tr>
+                <tr><td>Heterogeneous Ensemble Learning Method</td></tr>
+                <tr><td>offspring generation</td></tr>
+                <tr><td>hoist mutation operator</td></tr>
+                <tr><td>multiobjective search</td></tr>
+                <tr><td>high-dimensional symbolic regression</td></tr>
+                <tr><td>capacitated arc routing</td></tr>
+                <tr><td>ranking-based competitive swarm optimizer</td></tr>
+                <tr><td>multi-tree genetic programming</td></tr>
+                <tr><td>sparse coding-based transformer</td></tr>
+                <tr><td>feature-based transfer learning</td></tr>
+                <tr><td>bi-search evolutionary algorithm</td></tr>
+                <tr><td>multimodal multi-objective evolutionary algorithm</td></tr>
+                <tr><td>dynamic flexible scheduling</td></tr>
+                <tr><td>fine-grained image classification</td></tr>
+                <tr><td>filter-based performance predictor</td></tr>
+                <tr><td>Trainer-Based Deep Q-Network</td></tr>
+                <tr><td>Grammar-Guided Linear Genetic</td></tr>
+                <tr><td>Graph Regularisation</td></tr>
+                <tr><td>Transductive Transfer Learning</td></tr>
+                <tr><td>Mapping RDF</td></tr>
+                <tr><td>GIS Data</td></tr>
+                <tr><td>Efficient Skyline Computation</td></tr>
+                <tr><td>Laplace's equation</td></tr>
+                <tr><td>Systematic Review</td></tr>
+                <tr><td>Big data</td></tr>
+                <tr><td>Cloud-Based Intrusion</td></tr>
+                <tr><td>prompt diphoton production</td></tr>
+                <tr><td>Sparsity-certifying Graph</td></tr>
+                <tr><td>Earth-Moon system based</td></tr>
+                <tr><td>Stirling cycle numbers</td></tr>
+                <tr><td>dyadic</td></tr>
+                <tr><td>Bosonic characters</td></tr>
+                <tr><td>Polymer Quantum Mechanics</td></tr>
+                <tr><td>ramp compression</td></tr>
+                <tr><td>Spitzer c2d</td></tr>
+                <tr><td>Partial cubes</td></tr>
+                <tr><td>Hilbert-Siegel modular</td></tr>
+                <tr><td>Half Integral Weight Modulo Primes</td></tr>
+                <tr><td>$p$-adic</td></tr>
+                <tr><td>Iterated integral</td></tr>
+                <tr><td>pure spinor formalism</td></tr>
+                <tr><td>charmed baryons</td></tr>
+                <tr><td>Polar EX Hydrae</td></tr>
+                <tr><td>Callias index</td></tr>
+                <tr><td>Grobner basis</td></tr>
+                <tr><td>Hadronic Form Factor</td></tr>
+                <tr><td>Allosterically Regulated Enzymes</td></tr>
+                <tr><td>Stochastic Lie</td></tr>
+                <tr><td>ALMA</td></tr>
+            </table>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Group 10 - Principles of Database Management [G02]. All rights reserved.
+    </footer>
+</body>
+</html>
+
